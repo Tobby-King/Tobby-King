@@ -2,7 +2,7 @@
 <h3 align="center">Full-Stack & React Native Developer · Founder of Mindalitix</h3>
 
 <p align="center">
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=2F81F7&center=true&vCenter=true&width=600&lines=I+build+mobile+apps%2C+web+apps+%26+AI+tools;2+apps+live+on+the+App+Store+%F0%9F%93%B1;Luzita+is+live+in+174+territories+%F0%9F%8C%8D;Open+to+remote+roles+worldwide+%F0%9F%9A%80" alt="Typing SVG" /></a>
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=2F81F7&center=true&vCenter=true&width=600&lines=I+build+mobile+apps%2C+web+apps+%26+AI+tools;Multiple+apps+live+on+the+App+Store+%F0%9F%93%B1;Luzita+is+live+in+174+territories+%F0%9F%8C%8D;Open+to+remote+roles+worldwide+%F0%9F%9A%80" alt="Typing SVG" /></a>
 </p>
 
 <p align="center">
@@ -17,7 +17,7 @@
 ### 🧑‍💻 About Me
 
 - 📱 I build **React Native apps, web apps and AI-powered tools** from idea to production
-- 🚀 Shipped **2 apps to the App Store** (one live in **174 territories**) and built **8 mobile apps** in total
+- 🚀 Shipped **multiple apps to the App Store**, including Luzita, live in **174 territories**
 - 🏢 Founder & Lead Developer at **Mindalitix Dev** (software agency) and **Mindalitix Academy** (EdTech platform)
 - 🤖 Build AI agent tooling: **MCP servers, AI evaluation frameworks and pgvector** search
 - 🏆 Competitive programmer in **C++** on Codeforces
